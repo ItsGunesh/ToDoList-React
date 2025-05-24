@@ -1,5 +1,6 @@
 # Todo List in REACT  
 Tech Stack : Vite + React   
+Can do complete CRUD
 
 
 ![Screenshot 2025-05-24 170553](https://github.com/user-attachments/assets/661a0c5f-6cd1-442e-bfed-6cb33d2327f7)
